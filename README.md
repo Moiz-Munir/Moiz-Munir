@@ -10,6 +10,9 @@
 
 <!-- About Me -->
 
+Hello! My name is Moiz Munir, and I am a first year Math/BBA Double Degree Student at the Univeristy of Waterloo and Wilfred Laurier Universty. Feel free to reach out at 
+<a href = "m2munir@uwaterloo.ca"> m2munir@uwaterloo.ca </a>
+
 <!-- Technical Skills -->
 
 <p aling = "center">
@@ -26,3 +29,8 @@ Developer Tools:
 <!-- Libraries and Frameworks -->
 
 <!-- Anything else fun and interesting -->
+
+Currently working on:
+<ul>
+  <li> Big things coming, stay tuned!</li>
+</ul>
