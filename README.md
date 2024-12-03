@@ -32,5 +32,5 @@ Developer Tools:
 
 Currently working on:
 <ul>
-  <li> Big things coming, stay tuned!</li>
+  <li> Pikannections! Developing a web-based game inspired by NYT's Connections</li>
 </ul>
